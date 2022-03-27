@@ -1,0 +1,23 @@
+[
+    {
+        "id": "PinCaHamilton",
+        "lat": 37.44432834128507,
+        "lng": -122.16102714455921,
+        "title": "Palo Alto",
+        "address": "228 Hamilton Ave, FL3 <span>Palo Alto, CA 94301</span>"
+    },
+    {
+        "id": "pin2",
+        "lat": 48.2090823754075,
+        "lng": 16.3675901268399,
+        "title": "Vienna",
+        "address": "Kohlmarkt 8-10, 1. Etage <span>1010 Vienna, Austria</span>"
+    },
+    {
+        "id": "PinNyc245Park",
+        "lat": 40.75494572314071, 
+        "lng": -73.97530534630943,
+        "title": "New York",
+        "address": "245 Park Ave, 39th floor <span>New York, NY 10167</span>"
+    }
+]
